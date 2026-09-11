@@ -1,0 +1,18 @@
+# ---- Сборка .NET ----
+bin/
+obj/
+publish/
+publish-sc/
+*.user
+
+# ---- Вывод установщика ----
+installer/Output/
+
+# ---- Прочее ----
+.vs/
+*.suo
+Thumbs.db
+desktop.ini
+
+# ---- НЕ публикуем посторонний сайт из этой рабочей папки ----
+deskripple-main/
