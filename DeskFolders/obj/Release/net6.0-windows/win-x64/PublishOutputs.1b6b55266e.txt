@@ -1,0 +1,5 @@
+D:\GitHub\winget-folder\DeskFolders\publish\DeskFolders.exe
+D:\GitHub\winget-folder\DeskFolders\publish\DeskFolders.dll
+D:\GitHub\winget-folder\DeskFolders\publish\DeskFolders.deps.json
+D:\GitHub\winget-folder\DeskFolders\publish\DeskFolders.runtimeconfig.json
+D:\GitHub\winget-folder\DeskFolders\publish\DeskFolders.pdb
